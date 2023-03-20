@@ -5,5 +5,6 @@ Conflitos e Pull Request
 
 * Mercurial
 * Git
+* GitLab
 * Subversion
 * CVS
